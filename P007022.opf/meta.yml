@@ -5,20 +5,16 @@ source_metadata:
   title: བོད་ཧོར་གྱི་བརྡ་ཡིག་མིང་ཚིག་དོན་གསུམ་གསལ་བར་བྱེད་པ་མུན་སེལ་སྒྲོན་མེ
   author: ''
   volumes:
-    cd93fda1063c4bc4980b1affefb5f68b:
+    38acdb7863664b96ac32ede31bed5908:
       image_group_id: I1PD95821
-      title: Volume 1 of bod hor gyi brda yig ming tshig don gsum gsal bar byed pa
-        mun sel sgron me
+      title: ''
       volume_number: 1
       total_pages: 1253
-      base_file: v001.txt
-    d864cb6c898c49c2a32b95008153b45c:
+    06e4fd846f4c4d69b6aacc4bd88c991f:
       image_group_id: I1PD95822
-      title: Volume 2 of bod hor gyi brda yig ming tshig don gsum gsal bar byed pa
-        mun sel sgron me
+      title: ''
       volume_number: 2
       total_pages: 1401
-      base_file: v002.txt
 ebook_metadata:
   title: བོད་ཧོར་གྱི་བརྡ་ཡིག་མིང་ཚིག་དོན་གསུམ་གསལ་བར་བྱེད་པ་མུན་སེལ་སྒྲོན་མེ
   author: ''
