@@ -1,5 +1,7 @@
 id: P007022
 initial_creation_type: ocr
+created_at: 29/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1PD95802
   title: བོད་ཧོར་གྱི་བརྡ་ཡིག་མིང་ཚིག་དོན་གསུམ་གསལ་བར་བྱེད་པ་མུན་སེལ་སྒྲོན་མེ
@@ -19,10 +21,3 @@ source_metadata:
       volume_number: 2
       total_pages: 1401
       base_file: v002.txt
-ebook_metadata:
-  title: བོད་ཧོར་གྱི་བརྡ་ཡིག་མིང་ཚིག་དོན་གསུམ་གསལ་བར་བྱེད་པ་མུན་སེལ་སྒྲོན་མེ
-  author: ''
-  sku: P007022
-  cover: cover.jpg
-  layers:
-  - pagination
